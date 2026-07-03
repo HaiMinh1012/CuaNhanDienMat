@@ -111,16 +111,6 @@ Arduino:
 - đọc giá trị `0/1`
 - điều khiển servo hoặc motor
 
-Pseudo logic:
-
-```cpp
-if (signal == 1) {
-    openDoor();
-} else {
-    closeDoor();
-}
-```
-
 ---
 
 ## Installation
